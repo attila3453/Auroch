@@ -1,0 +1,2 @@
+path gobbler
+nrframes 11

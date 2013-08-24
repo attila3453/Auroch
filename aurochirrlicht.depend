@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1355994243 source:c:\users\attila\desktop\aurochirrlicht\main.cpp
+	<irrlicht.h>
+	<SFML/Window.hpp>
+
+1361204226 source:c:\users\attil_000\desktop\aurochirrlicht\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+
+1362904064 source:c:\users\attil_000\desktop\auroch\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+
+1376991854 source:c:\users\attila\dropbox\auroch\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,4221 @@
+# depslib dependency file v1.0
+1339307932 source:/home/attila/Desktop/vierte/Vector.cpp
+	<math.h>
+	"Vector.h"
+	<math.h>
+	"Vector.h"
+	"Vector.h"
+	<math.h>
+	"Vector.h"
+	<math.h>
+
+1339030590 
+
+1339307932 /home/attila/Desktop/vierte/Vector.h
+
+1339311685 source:/home/attila/Desktop/vierte/main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<string>
+	"stb_image.h"
+	"tex.h"
+	"Vector.h"
+	"modelobj.h"
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<string>
+	"stb_image.h"
+	"tex.h"
+	"Vector.h"
+	"modelobj.h"
+	<windows.h>
+	<GL/glut.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	"Camera.h"
+	"modelobj.h"
+	<windows.h>
+	<GL/glut.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	"Camera.h"
+	"modelobj.h"
+
+1235001123 h"
+
+1339307932 /home/attila/Desktop/vierte/stb_image.h
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1339307932 /home/attila/Desktop/vierte/tex.h
+	<GL/gl.h>
+	<GL/gl.h>
+
+1339310713 /home/attila/Desktop/vierte/modelobj.h
+	<vector>
+	<string>
+	"Vector.h"
+	<vector>
+	<string>
+	"Vector.h"
+
+1339310713 source:/home/attila/Desktop/vierte/modelobj.cpp
+	<vector>
+	<fstream>
+	<GL/gl.h>
+	<string.h>
+	<algorithm>
+	"Vector.h"
+	"tex.h"
+	"modelobj.h"
+	<vector>
+	<fstream>
+	<GL/gl.h>
+	<string.h>
+	<algorithm>
+	"Vector.h"
+	"tex.h"
+	"modelobj.h"
+	"modelobj.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1339030590 >
+
+1339307932 source:/home/attila/Desktop/vierte/stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1339307932 source:/home/attila/Desktop/vierte/tex.cpp
+	<GL/glu.h>
+	"stb_image.h"
+	"tex.h"
+	<GL/glu.h>
+	"stb_image.h"
+	"tex.h"
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1351962514 .h"
+
+1340451608 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"modelobj.h"
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"tex.h"
+
+1331622474 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\stb_image.h
+	<stdio.h>
+
+1340447541 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\tex.h
+	<GL/gl.h>
+
+1339689920 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\vector.h
+
+1339758413 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\modelobj.h
+	"model.h"
+
+1340441200 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\modelobj.cpp
+	"geometry.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+
+1331622472 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1336566682 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1339689852 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\vector.cpp
+	"Vector.h"
+	<math.h>
+
+1335771501 source:c:\users\estar\dropbox\vierte\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<string>
+	"stb_image.h"
+	"tex.h"
+	"Vector.h"
+	"modelobj.h"
+
+1331622474 c:\users\estar\dropbox\vierte\stb_image.h
+	<stdio.h>
+
+1331622476 c:\users\estar\dropbox\vierte\tex.h
+
+1335449384 c:\users\estar\dropbox\vierte\vector.h
+
+1335445854 c:\users\estar\dropbox\vierte\modelobj.h
+
+1335528169 source:c:\users\estar\dropbox\vierte\modelobj.cpp
+	<vector>
+	<fstream>
+	<GL/gl.h>
+	<string.h>
+	<algorithm>
+	"Vector.h"
+	"tex.h"
+	"modelobj.h"
+
+1331622472 source:c:\users\estar\dropbox\vierte\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 source:c:\users\estar\dropbox\vierte\tex.cpp
+	<GL/glu.h>
+	"stb_image.h"
+	"tex.h"
+
+1335192626 source:c:\users\estar\dropbox\vierte\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1339308071 source:c:\documents and settings\administrator\desktop\vierte\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	"Camera.h"
+	"modelobj.h"
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\stb_image.h
+	<stdio.h>
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\tex.h
+	<GL/gl.h>
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\vector.h
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\modelobj.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\modelobj.cpp
+	"modelobj.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\vector.cpp
+	"Vector.h"
+	<math.h>
+
+1335528092 source:c:\documents and settings\administrator\my documents\dropbox\vierte-testing\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<string>
+	"stb_image.h"
+	"tex.h"
+	"Vector.h"
+	"modelobj.h"
+
+1335445854 c:\documents and settings\administrator\my documents\dropbox\vierte-testing\stb_image.h
+	<stdio.h>
+
+1331622476 c:\documents and settings\administrator\my documents\dropbox\vierte-testing\tex.h
+
+1335449384 c:\documents and settings\administrator\my documents\dropbox\vierte-testing\vector.h
+
+1335445854 c:\documents and settings\administrator\my documents\dropbox\vierte-testing\modelobj.h
+
+1335528169 source:c:\documents and settings\administrator\my documents\dropbox\vierte-testing\modelobj.cpp
+	<vector>
+	<fstream>
+	<GL/gl.h>
+	<string.h>
+	<algorithm>
+	"Vector.h"
+	"tex.h"
+	"modelobj.h"
+
+1335445854 source:c:\documents and settings\administrator\my documents\dropbox\vierte-testing\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 source:c:\documents and settings\administrator\my documents\dropbox\vierte-testing\tex.cpp
+	<GL/glu.h>
+	"stb_image.h"
+	"tex.h"
+
+1335445853 source:c:\documents and settings\administrator\my documents\dropbox\vierte-testing\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\quaternion.h
+	"Vector.h"
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"modelobj.h"
+
+1339308244 source:c:\documents and settings\administrator\desktop\vierte\camera.cpp
+	"Camera.h"
+	"geometry.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339307932 source:c:\documents and settings\administrator\desktop\vierte\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339307932 c:\documents and settings\administrator\desktop\vierte\geometry.h
+	"Vector.h"
+	"modelobj.h"
+
+1336566060 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1336566030 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\quaternion.h
+	"Vector.h"
+
+1340441200 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339747747 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1339608877 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"geometry.h"
+
+1340442399 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\camera.cpp
+	"Camera.h"
+	"geometry.h"
+	"Vector.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339608166 source:/home/attila/Desktop/vierte/Camera.cpp
+	"Camera.h"
+	"geometry.h"
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"Camera.h"
+	"geometry.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339307932 /home/attila/Desktop/vierte/Camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"modelobj.h"
+	"Vector.h"
+	"Quaternion.h"
+	"modelobj.h"
+
+1339307932 /home/attila/Desktop/vierte/Quaternion.h
+	"Vector.h"
+	"Vector.h"
+
+1339611244 /home/attila/Desktop/vierte/geometry.h
+	"Vector.h"
+	"modelobj.h"
+	"Vector.h"
+	<string>
+	<vector>
+
+1339307932 source:/home/attila/Desktop/vierte/Quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+	"Quaternion.h"
+	<math.h>
+
+1339611274 source:/home/attila/Desktop/vierte/geometry.cpp
+	"geometry.h"
+	<cmath>
+	"geometry.h"
+	<cmath>
+
+1339307932 source:c:\documents and settings\administrator\my documents\dropbox\vierte\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\quaternion.h
+	"Vector.h"
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\vector.h
+
+1339307932 source:c:\documents and settings\administrator\my documents\dropbox\vierte\vector.cpp
+	"Vector.h"
+	<math.h>
+
+1339307932 source:c:\documents and settings\administrator\my documents\dropbox\vierte\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\geometry.h
+	"Vector.h"
+	"modelobj.h"
+
+1339310713 c:\documents and settings\administrator\my documents\dropbox\vierte\modelobj.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1339310713 source:c:\documents and settings\administrator\my documents\dropbox\vierte\modelobj.cpp
+	"modelobj.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\tex.h
+	<GL/gl.h>
+
+1339307932 source:c:\documents and settings\administrator\my documents\dropbox\vierte\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\stb_image.h
+	<stdio.h>
+
+1339307932 source:c:\documents and settings\administrator\my documents\dropbox\vierte\tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1339311685 source:c:\documents and settings\administrator\my documents\dropbox\vierte\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	"Camera.h"
+	"modelobj.h"
+
+1339307932 c:\documents and settings\administrator\my documents\dropbox\vierte\camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"modelobj.h"
+
+1339311671 source:c:\documents and settings\administrator\my documents\dropbox\vierte\camera.cpp
+	"Camera.h"
+	"geometry.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339611274 source:/home/attila/Dropbox/vierte/geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339747747 /home/attila/Dropbox/vierte/geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1339689920 /home/attila/Dropbox/vierte/Vector.h
+
+1339307932 source:/home/attila/Dropbox/vierte/stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1339307932 /home/attila/Dropbox/vierte/stb_image.h
+	<stdio.h>
+
+1339307932 source:/home/attila/Dropbox/vierte/tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1339307932 /home/attila/Dropbox/vierte/tex.h
+	<GL/gl.h>
+
+1339689501 source:/home/attila/Dropbox/vierte/Camera.cpp
+	"Camera.h"
+	"geometry.h"
+	"Vector.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339608877 /home/attila/Dropbox/vierte/Camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"geometry.h"
+
+1339307932 /home/attila/Dropbox/vierte/Quaternion.h
+	"Vector.h"
+
+1339759671 source:/home/attila/Dropbox/vierte/main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	"modelobj.h"
+	"model.h"
+	"Camera.h"
+
+1339758413 /home/attila/Dropbox/vierte/modelobj.h
+	"model.h"
+
+1339689852 source:/home/attila/Dropbox/vierte/Vector.cpp
+	"Vector.h"
+	<math.h>
+
+1339758487 source:/home/attila/Dropbox/vierte/modelobj.cpp
+	"geometry.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+
+1339307932 source:/home/attila/Dropbox/vierte/Quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1339758884 /home/attila/Dropbox/vierte/model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1339758573 source:/home/attila/Dropbox/vierte/model.cpp
+	"model.h"
+	<GL/gl.h>
+	<string.h>
+
+1339776377 source:/home/attila/Dropbox/Proiecte/vierte/Camera.cpp
+	"Camera.h"
+	"geometry.h"
+	"Vector.h"
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1339608877 /home/attila/Dropbox/Proiecte/vierte/Camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"geometry.h"
+
+1339689920 /home/attila/Dropbox/Proiecte/vierte/Vector.h
+
+1339307932 /home/attila/Dropbox/Proiecte/vierte/Quaternion.h
+	"Vector.h"
+
+1339747747 /home/attila/Dropbox/Proiecte/vierte/geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1339758413 /home/attila/Dropbox/Proiecte/vierte/modelobj.h
+	"model.h"
+
+1339758884 /home/attila/Dropbox/Proiecte/vierte/model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1339307932 source:/home/attila/Dropbox/Proiecte/vierte/Quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1339689852 source:/home/attila/Dropbox/Proiecte/vierte/Vector.cpp
+	"Vector.h"
+	<math.h>
+
+1339611274 source:/home/attila/Dropbox/Proiecte/vierte/geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339777108 source:/home/attila/Dropbox/Proiecte/vierte/main.cpp
+	<windows.h>
+	<GL/glfw.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"modelobj.h"
+	"input.h"
+	"model.h"
+	"Camera.h"
+
+1339758573 source:/home/attila/Dropbox/Proiecte/vierte/model.cpp
+	"model.h"
+	<GL/gl.h>
+	<string.h>
+
+1339758487 source:/home/attila/Dropbox/Proiecte/vierte/modelobj.cpp
+	"geometry.h"
+	"tex.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+
+1339307932 /home/attila/Dropbox/Proiecte/vierte/tex.h
+	<GL/gl.h>
+
+1339307932 source:/home/attila/Dropbox/Proiecte/vierte/stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1339307932 /home/attila/Dropbox/Proiecte/vierte/stb_image.h
+	<stdio.h>
+
+1339307932 source:/home/attila/Dropbox/Proiecte/vierte/tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1339771795 source:/home/attila/Dropbox/Proiecte/vierte/input.cpp
+
+1339776570 /home/attila/Dropbox/Proiecte/vierte/input.h
+
+1340441285 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1339771795 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\input.cpp
+
+1340439526 c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\input.h
+
+1340441316 source:c:\documents and settings\administrator\my documents\dropbox\proiecte\vierte\model.cpp
+	"model.h"
+	<GL/gl.h>
+	<string.h>
+
+1336566060 source:c:\documents and settings\administrator\desktop\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1336566030 c:\documents and settings\administrator\desktop\auroch\quaternion.h
+	"Vector.h"
+
+1339689920 c:\documents and settings\administrator\desktop\auroch\vector.h
+
+1339689852 source:c:\documents and settings\administrator\desktop\auroch\vector.cpp
+	"Vector.h"
+	<math.h>
+
+1340441200 source:c:\documents and settings\administrator\desktop\auroch\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1339747747 c:\documents and settings\administrator\desktop\auroch\geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1339758413 c:\documents and settings\administrator\desktop\auroch\modelobj.h
+	"model.h"
+
+1340547445 c:\documents and settings\administrator\desktop\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1340441316 source:c:\documents and settings\administrator\desktop\auroch\model.cpp
+	"model.h"
+	<GL/gl.h>
+	<string.h>
+
+1340458118 source:c:\documents and settings\administrator\desktop\auroch\modelobj.cpp
+	"geometry.h"
+	"texture.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+
+1340457060 c:\documents and settings\administrator\desktop\auroch\tex.h
+	<GL/gl.h>
+
+1331622472 source:c:\documents and settings\administrator\desktop\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 c:\documents and settings\administrator\desktop\auroch\stb_image.h
+	<stdio.h>
+
+1336566682 source:c:\documents and settings\administrator\desktop\auroch\tex.cpp
+	"tex.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1340549115 source:c:\documents and settings\administrator\desktop\auroch\camera.cpp
+	"Camera.h"
+	"geometry.h"
+	"Vector.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"text.h"
+
+1339608877 c:\documents and settings\administrator\desktop\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"geometry.h"
+
+1340458565 c:\documents and settings\administrator\desktop\auroch\text.h
+	<vector>
+	<string>
+	<string.h>
+
+1340550401 source:c:\documents and settings\administrator\desktop\auroch\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"modelobj.h"
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"text.h"
+
+1340439526 c:\documents and settings\administrator\desktop\auroch\input.h
+
+1340457060 c:\documents and settings\administrator\desktop\auroch\texture.h
+	<GL/gl.h>
+
+1340458513 source:c:\documents and settings\administrator\desktop\auroch\text.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1340457766 source:c:\documents and settings\administrator\desktop\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1340549115 source:c:\documents and settings\administrator\my documents\dropbox\auroch\camera.cpp
+	"Camera.h"
+	"geometry.h"
+	"Vector.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"text.h"
+
+1339608877 c:\documents and settings\administrator\my documents\dropbox\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"geometry.h"
+
+1339689920 c:\documents and settings\administrator\my documents\dropbox\auroch\vector.h
+
+1336566030 c:\documents and settings\administrator\my documents\dropbox\auroch\quaternion.h
+	"Vector.h"
+
+1339747747 c:\documents and settings\administrator\my documents\dropbox\auroch\geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1339758413 c:\documents and settings\administrator\my documents\dropbox\auroch\modelobj.h
+	"model.h"
+
+1340547445 c:\documents and settings\administrator\my documents\dropbox\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1340458565 c:\documents and settings\administrator\my documents\dropbox\auroch\text.h
+	<vector>
+	<string>
+	<string.h>
+
+1336566060 source:c:\documents and settings\administrator\my documents\dropbox\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1339689852 source:c:\documents and settings\administrator\my documents\dropbox\auroch\vector.cpp
+	"Vector.h"
+	<math.h>
+
+1340441200 source:c:\documents and settings\administrator\my documents\dropbox\auroch\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1340550401 source:c:\documents and settings\administrator\my documents\dropbox\auroch\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"modelobj.h"
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"text.h"
+
+1340439526 c:\documents and settings\administrator\my documents\dropbox\auroch\input.h
+
+1340457060 c:\documents and settings\administrator\my documents\dropbox\auroch\texture.h
+	<GL/gl.h>
+
+1340441316 source:c:\documents and settings\administrator\my documents\dropbox\auroch\model.cpp
+	"model.h"
+	<GL/gl.h>
+	<string.h>
+
+1340458118 source:c:\documents and settings\administrator\my documents\dropbox\auroch\modelobj.cpp
+	"geometry.h"
+	"texture.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"modelobj.h"
+
+1331622472 source:c:\documents and settings\administrator\my documents\dropbox\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 c:\documents and settings\administrator\my documents\dropbox\auroch\stb_image.h
+	<stdio.h>
+
+1340458513 source:c:\documents and settings\administrator\my documents\dropbox\auroch\text.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1340457766 source:c:\documents and settings\administrator\my documents\dropbox\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1342241412 source:/home/attila/Desktop/auroch/Camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+1341742506 /home/attila/Desktop/auroch/Camera.h
+	"Vector.h"
+	"Quaternion.h"
+	"Vector.h"
+	"Quaternion.h"
+
+1357034640 n.h"
+
+1347005785 /home/attila/Desktop/auroch/Vector.h
+
+1336555230 /home/attila/Desktop/auroch/Quaternion.h
+	"Vector.h"
+	"Vector.h"
+
+1339747747 /home/attila/Desktop/auroch/geometry.h
+	"Vector.h"
+	"modelobj.h"
+	<string>
+	<vector>
+
+1341739919 /home/attila/Desktop/auroch/modelobj.h
+	"model.h"
+
+1347368395 /home/attila/Desktop/auroch/model.h
+	<vector>
+	<string>
+	"Vector.h"
+	<vector>
+	<string>
+	"Vector.h"
+
+1340458565 /home/attila/Desktop/auroch/text.h
+	<vector>
+	<string>
+	<string.h>
+
+1336566060 source:/home/attila/Desktop/auroch/Quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1342240374 source:/home/attila/Desktop/auroch/Vector.cpp
+	<math.h>
+	"Vector.h"
+	<math.h>
+	"Vector.h"
+
+1340441200 source:/home/attila/Desktop/auroch/geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1347368802 source:/home/attila/Desktop/auroch/main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+1357034640 3d.h"
+
+1341743976 /home/attila/Desktop/auroch/input.h
+	"Vector.h"
+	"Vector.h"
+
+1340446260 /home/attila/Desktop/auroch/texture.h
+	<GL/gl.h>
+	<GL/gl.h>
+
+1347368600 source:/home/attila/Desktop/auroch/model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1347368432 source:/home/attila/Desktop/auroch/modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+1351962514 "
+
+1331608072 source:/home/attila/Desktop/auroch/stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331608074 /home/attila/Desktop/auroch/stb_image.h
+	<stdio.h>
+	<stdio.h>
+
+1340458513 source:/home/attila/Desktop/auroch/text.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1346935486 source:/home/attila/Desktop/auroch/texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+1346485569 source:/home/attila/Desktop/auroch/input.cpp
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1347006502 source:/home/attila/Desktop/auroch/debug.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1347006437 /home/attila/Desktop/auroch/debug.h
+	<string>
+	<string>
+
+1341753321 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+1341754972 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\debug.h
+	<string>
+
+1341753307 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+1341752942 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\vector.h
+
+1336566030 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\quaternion.h
+	"Vector.h"
+
+1336566060 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1341752741 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1341754358 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\debug.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1342246125 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1341754776 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\input.h
+	"Vector.h"
+
+1341829467 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+
+1341824495 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1340457060 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\texture.h
+	<GL/gl.h>
+
+1341824992 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1341824495 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+1331622472 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\stb_image.h
+	<stdio.h>
+
+1340457766 source:c:\documents and settings\attila\my documents\dropbox\project auroch\auroch2\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315525600 c:\documents and settings\attila\desktop\auroch\debug.h
+	<string>
+
+315525600 c:\documents and settings\attila\desktop\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315525600 on.h"
+
+315525600 c:\documents and settings\attila\desktop\auroch\vector.h
+
+315525600 c:\documents and settings\attila\desktop\auroch\quaternion.h
+	"Vector.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\vector.cpp
+	<math.h>
+	"Vector.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+315525600 c:\documents and settings\attila\desktop\auroch\input.h
+	"Vector.h"
+
+1347562217 source:c:\documents and settings\attila\desktop\auroch\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+315525600 c:\documents and settings\attila\desktop\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+315525600 c:\documents and settings\attila\desktop\auroch\texture.h
+	<GL/gl.h>
+
+1347558665 source:c:\documents and settings\attila\desktop\auroch\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315525600 c:\documents and settings\attila\desktop\auroch\stb_image.h
+	<stdio.h>
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+1347560812 source:c:\documents and settings\attila\desktop\auroch\colliison.cpp
+	"collision.h"
+	<cmath>
+
+315525600 c:\documents and settings\attila\desktop\auroch\collision.h
+	"Vector.h"
+	"model.h"
+
+1342252213 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+1341754972 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\debug.h
+	<string>
+
+1341753307 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+1342251174 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\vector.h
+
+1336566030 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\quaternion.h
+	"Vector.h"
+
+1342252193 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\colliison.cpp
+	"collision.h"
+	<cmath>
+
+1342251707 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\collision.h
+	"Vector.h"
+	"model.h"
+
+1342248728 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1341754358 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\debug.cpp
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1342248359 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1341754776 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\input.h
+	"Vector.h"
+
+1342252213 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+
+1340457060 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\texture.h
+	<GL/gl.h>
+
+1342248728 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1341824495 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+1342249939 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1331622472 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1331622474 c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\stb_image.h
+	<stdio.h>
+
+1340457766 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+
+1342251174 source:c:\documents and settings\attila\my documents\dropbox\auroch\auroch2\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1346939048 source:c:\documents and settings\attila\desktop\auroch\modelmd2.cpp
+	<windows.h>
+	<fstream>
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"texture.h"
+	"modelmd2.h"
+
+1346937024 c:\documents and settings\attila\desktop\auroch\modelmd2.h
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"vector.h"
+
+315525600 source:c:\documents and settings\attila\desktop\auroch\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+315525600 c:\documents and settings\attila\desktop\auroch\animation3d.h
+	"model.h"
+	<vector>
+
+1347349360 source:/home/attila/Desktop/auroch/animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+1347349360 /home/attila/Desktop/auroch/animation3d.h
+	"model.h"
+	<vector>
+
+1347021909 source:/home/attila/Desktop/auroch/colliison.cpp
+	"collision.h"
+	<cmath>
+
+1342240906 /home/attila/Desktop/auroch/collision.h
+	"Vector.h"
+	"model.h"
+
+1342239138 source:/home/attila/Desktop/auroch/quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\users\attila\desktop\auroch v1\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315525600 c:\users\attila\desktop\auroch v1\debug.h
+	<string>
+
+315525600 c:\users\attila\desktop\auroch v1\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315525600 c:\users\attila\desktop\auroch v1\vector.h
+
+315525600 c:\users\attila\desktop\auroch v1\quaternion.h
+	"Vector.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\vector.cpp
+	<math.h>
+	"Vector.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+315525600 c:\users\attila\desktop\auroch v1\animation3d.h
+	"model.h"
+	<vector>
+
+315525600 c:\users\attila\desktop\auroch v1\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\colliison.cpp
+	"collision.h"
+	<cmath>
+
+315525600 c:\users\attila\desktop\auroch v1\collision.h
+	"Vector.h"
+	"model.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+315525600 c:\users\attila\desktop\auroch v1\input.h
+	"Vector.h"
+
+1354449687 source:c:\users\attila\desktop\auroch v1\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+315525600 c:\users\attila\desktop\auroch v1\texture.h
+	<GL/gl.h>
+
+315525600 source:c:\users\attila\desktop\auroch v1\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315525600 source:c:\users\attila\desktop\auroch v1\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\users\attila\desktop\auroch v1\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315525600 c:\users\attila\desktop\auroch v1\stb_image.h
+	<stdio.h>
+
+315525600 source:c:\users\attila\desktop\auroch v1\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+315525600 source:c:\users\estar\desktop\auroch v1\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+315525600 c:\users\estar\desktop\auroch v1\animation3d.h
+	"model.h"
+	<vector>
+
+315525600 c:\users\estar\desktop\auroch v1\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+315525600 c:\users\estar\desktop\auroch v1\vector.h
+
+315525600 source:c:\users\estar\desktop\auroch v1\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315525600 c:\users\estar\desktop\auroch v1\debug.h
+	<string>
+
+315525600 c:\users\estar\desktop\auroch v1\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315525600 c:\users\estar\desktop\auroch v1\quaternion.h
+	"Vector.h"
+
+1354451482 source:c:\users\estar\desktop\auroch v1\colliison.cpp
+	"collision.h"
+	<cmath>
+
+315525600 c:\users\estar\desktop\auroch v1\collision.h
+	"Vector.h"
+	"model.h"
+
+1354450487 source:c:\users\estar\desktop\auroch v1\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1354450815 source:c:\users\estar\desktop\auroch v1\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1354450836 c:\users\estar\desktop\auroch v1\input.h
+	"Vector.h"
+
+1354451381 source:c:\users\estar\desktop\auroch v1\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+315525600 c:\users\estar\desktop\auroch v1\texture.h
+	<GL/gl.h>
+
+315525600 source:c:\users\estar\desktop\auroch v1\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+315525600 source:c:\users\estar\desktop\auroch v1\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315525600 source:c:\users\estar\desktop\auroch v1\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\users\estar\desktop\auroch v1\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315525600 c:\users\estar\desktop\auroch v1\stb_image.h
+	<stdio.h>
+
+315525600 source:c:\users\estar\desktop\auroch v1\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+315525600 source:c:\users\estar\desktop\auroch v1\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1354450918 source:c:\users\estar\desktop\auroch v1\collisionnoob.cpp
+	"collisionnoob.h"
+
+1354450918 noob.h"
+
+1354450917 c:\users\estar\desktop\auroch v1\collisionnoob.h
+
+315529200 source:c:\users\attila\dropbox\auroch\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315529200 c:\users\attila\dropbox\auroch\debug.h
+	<string>
+
+315529200 c:\users\attila\dropbox\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315529200 c:\users\attila\dropbox\auroch\vector.h
+
+315529200 c:\users\attila\dropbox\auroch\quaternion.h
+	"Vector.h"
+
+315529200 source:c:\users\attila\dropbox\auroch\vector.cpp
+	<math.h>
+	"Vector.h"
+
+315529200 source:c:\users\attila\dropbox\auroch\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+1354451482 source:c:\users\attila\dropbox\auroch\colliison.cpp
+	"collision.h"
+	<cmath>
+
+315529200 c:\users\attila\dropbox\auroch\collision.h
+	"Vector.h"
+	"model.h"
+
+1354538325 c:\users\attila\dropbox\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1354454087 source:c:\users\attila\dropbox\auroch\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1354535251 source:c:\users\attila\dropbox\auroch\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1354535272 c:\users\attila\dropbox\auroch\input.h
+	"Vector.h"
+
+1370938181 source:c:\users\attila\dropbox\auroch\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+
+1357038240 source:c:\users\attila\dropbox\auroch\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1354539113 source:c:\users\attila\dropbox\auroch\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315529200 source:c:\users\attila\dropbox\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315529200 source:c:\users\attila\dropbox\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315529200 c:\users\attila\dropbox\auroch\stb_image.h
+	<stdio.h>
+
+315529200 source:c:\users\attila\dropbox\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+315529200 c:\users\attila\dropbox\auroch\animation3d.h
+	"model.h"
+	<vector>
+
+315529200 c:\users\attila\dropbox\auroch\texture.h
+	<GL/gl.h>
+
+1357038240 source:c:\users\attila\dropbox\auroch\collison.cpp
+	"collision.h"
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+315525600 source:c:\users\attila\desktop\auroch\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315525600 c:\users\attila\desktop\auroch\debug.h
+	<string>
+
+315525600 c:\users\attila\desktop\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315525600 c:\users\attila\desktop\auroch\vector.h
+
+315525600 c:\users\attila\desktop\auroch\quaternion.h
+	"Vector.h"
+
+315525600 source:c:\users\attila\desktop\auroch\vector.cpp
+	<math.h>
+	"Vector.h"
+
+315525600 source:c:\users\attila\desktop\auroch\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+315525600 c:\users\attila\desktop\auroch\animation3d.h
+	"model.h"
+	<vector>
+
+1354534725 c:\users\attila\desktop\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1355658959 source:c:\users\attila\desktop\auroch\collison.cpp
+	"collision.h"
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+315525600 c:\users\attila\desktop\auroch\collision.h
+	"Vector.h"
+	"model.h"
+
+1354450487 source:c:\users\attila\desktop\auroch\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1354531651 source:c:\users\attila\desktop\auroch\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1354531672 c:\users\attila\desktop\auroch\input.h
+	"Vector.h"
+
+1370956466 source:c:\users\attila\desktop\auroch\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+
+315525600 c:\users\attila\desktop\auroch\texture.h
+	<GL/gl.h>
+
+1354535513 source:c:\users\attila\desktop\auroch\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315525600 source:c:\users\attila\desktop\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\users\attila\desktop\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315525600 c:\users\attila\desktop\auroch\stb_image.h
+	<stdio.h>
+
+315525600 source:c:\users\attila\desktop\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+1355659399 source:c:\users\attila\desktop\auroch\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+1357034640 c:\users\attil_000\desktop\auroch\animation3d.h
+	"model.h"
+	<vector>
+
+1357034640 c:\users\attil_000\desktop\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+1357034640 c:\users\attil_000\desktop\auroch\vector.h
+
+1357034640 source:c:\users\attil_000\desktop\auroch\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+1357034640 c:\users\attil_000\desktop\auroch\debug.h
+	<string>
+
+1357034640 c:\users\attil_000\desktop\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+1357034640 c:\users\attil_000\desktop\auroch\quaternion.h
+	"Vector.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\collison.cpp
+	"collision.h"
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+1357034640 c:\users\attil_000\desktop\auroch\collision.h
+	"Vector.h"
+	"model.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1357034640 c:\users\attil_000\desktop\auroch\input.h
+	"Vector.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+1357034640 c:\users\attil_000\desktop\auroch\texture.h
+	<GL/gl.h>
+
+1357034640 source:c:\users\attil_000\desktop\auroch\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+1357034640 source:c:\users\attil_000\desktop\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+1357034640 source:c:\users\attil_000\desktop\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1357034640 c:\users\attil_000\desktop\auroch\stb_image.h
+	<stdio.h>
+
+1357034640 source:c:\users\attil_000\desktop\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+1357034640 source:c:\users\attil_000\desktop\auroch\vector.cpp
+	<math.h>
+	"Vector.h"
+
+315525600 source:c:\users\estar\dropbox\auroch\animation3d.cpp
+	"animation3d.h"
+	<string.h>
+	<fstream>
+
+315525600 c:\users\estar\dropbox\auroch\animation3d.h
+	"model.h"
+	<vector>
+
+1354534725 c:\users\estar\dropbox\auroch\model.h
+	<vector>
+	<string>
+	"Vector.h"
+
+315525600 c:\users\estar\dropbox\auroch\vector.h
+
+315525600 source:c:\users\estar\dropbox\auroch\camera.cpp
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	"debug.h"
+	"Camera.h"
+	"Vector.h"
+
+315525600 c:\users\estar\dropbox\auroch\debug.h
+	<string>
+
+315525600 c:\users\estar\dropbox\auroch\camera.h
+	"Vector.h"
+	"Quaternion.h"
+
+315525600 c:\users\estar\dropbox\auroch\quaternion.h
+	"Vector.h"
+
+1357034640 source:c:\users\estar\dropbox\auroch\collison.cpp
+	"collision.h"
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+315525600 c:\users\estar\dropbox\auroch\collision.h
+	"Vector.h"
+	"model.h"
+
+1354450487 source:c:\users\estar\dropbox\auroch\debug.cpp
+	<string>
+	<sstream>
+	<stdio.h>
+	<GL/gl.h>
+	<vector>
+	<GL/glut.h>
+	"debug.h"
+
+1354531651 source:c:\users\estar\dropbox\auroch\input.cpp
+	<windows.h>
+	<GL/glut.h>
+	<string.h>
+	"input.h"
+	"Vector.h"
+
+1354531672 c:\users\estar\dropbox\auroch\input.h
+	"Vector.h"
+
+1357034640 source:c:\users\estar\dropbox\auroch\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	"input.h"
+	"model.h"
+	"Camera.h"
+	"texture.h"
+	"debug.h"
+	"collision.h"
+	"animation3d.h"
+
+315525600 c:\users\estar\dropbox\auroch\texture.h
+	<GL/gl.h>
+
+1357034640 source:c:\users\estar\dropbox\auroch\model.cpp
+	<GL/gl.h>
+	<cmath>
+	<string.h>
+	"model.h"
+	"debug.h"
+
+1354535513 source:c:\users\estar\dropbox\auroch\modelobj.cpp
+	<GL/gl.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"model.h"
+	"texture.h"
+
+315525600 source:c:\users\estar\dropbox\auroch\quaternion.cpp
+	"Quaternion.h"
+	<math.h>
+
+315525600 source:c:\users\estar\dropbox\auroch\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+315525600 c:\users\estar\dropbox\auroch\stb_image.h
+	<stdio.h>
+
+315525600 source:c:\users\estar\dropbox\auroch\texture.cpp
+	"texture.h"
+	"stb_image.h"
+	<GL/glu.h>
+	<stdlib.h>
+
+315525600 source:c:\users\estar\dropbox\auroch\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1352124854 c:\mingw\include\irrlicht\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IColladaMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IRandomizer.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneLoader.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1352124854 ionParameters.h"
+
+1352124854 c:\mingw\include\irrlicht\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1341010376 c:\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010376 .h>
+
+1341010370 c:\mingw\include\_mingw.h
+
+1341010380 c:\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1351962512 c:\mingw\include\irrlicht\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1352124854 c:\mingw\include\irrlicht\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1351962514 c:\mingw\include\irrlicht\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1341010378 c:\mingw\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdio.h>
+	<stdint.h>
+	<stdint.h>
+
+1341010378 c:\mingw\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010376 c:\mingw\include\stdint.h
+	<stddef.h>
+
+1341010370 c:\mingw\include\assert.h
+	<_mingw.h>
+
+1341010376 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010374 c:\mingw\include\math.h
+	<_mingw.h>
+
+1341010372 c:\mingw\include\float.h
+	<_mingw.h>
+
+1341010374 c:\mingw\include\limits.h
+	<_mingw.h>
+
+1351962514 c:\mingw\include\irrlicht\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1351962512 c:\mingw\include\irrlicht\vector3d.h
+	"irrMath.h"
+
+1351962512 c:\mingw\include\irrlicht\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1351962512 c:\mingw\include\irrlicht\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1352124854 fer.h"
+
+1351962514 c:\mingw\include\irrlicht\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1351962512 c:\mingw\include\irrlicht\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1351962514 eTypes.h"
+
+1351962512 c:\mingw\include\irrlicht\ireferencecounted.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1351962514 Layer.h"
+
+1352124854 c:\mingw\include\irrlicht\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1352124854 c:\mingw\include\irrlicht\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+
+1351962514 c:\mingw\include\irrlicht\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1351962512 2d.h"
+
+1351962512 c:\mingw\include\irrlicht\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1351962514 c:\mingw\include\irrlicht\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1346608470 d.h"
+
+1351962514 c:\mingw\include\irrlicht\position2d.h
+	"vector2d.h"
+
+1351962514 c:\mingw\include\irrlicht\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1351962512 c:\mingw\include\irrlicht\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1341010374 c:\mingw\include\memory.h
+	<string.h>
+
+1341010376 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1351962512 c:\mingw\include\irrlicht\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1351962514 c:\mingw\include\irrlicht\heapsort.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\ematerialtypes.h
+
+1351962512 c:\mingw\include\irrlicht\ematerialflags.h
+
+1351962512 c:\mingw\include\irrlicht\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1351962512 tor.h"
+
+1351962514 c:\mingw\include\irrlicht\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\svertexindex.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\ehardwarebufferflags.h
+
+1351962512 c:\mingw\include\irrlicht\eprimitivetypes.h
+
+1351962512 c:\mingw\include\irrlicht\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1351962514 c:\mingw\include\irrlicht\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1351962514 dex.h"
+
+1351962514 c:\mingw\include\irrlicht\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1351962514 ffer.h"
+
+1352124854 c:\mingw\include\irrlicht\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1351962512 c:\mingw\include\irrlicht\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1351962514 er.h"
+
+1351962512 c:\mingw\include\irrlicht\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1351962512 c:\mingw\include\irrlicht\path.h
+	"irrString.h"
+
+1351962514 c:\mingw\include\irrlicht\ecullingtypes.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\edebugscenetypes.h
+
+1352124854 c:\mingw\include\irrlicht\edriverfeatures.h
+
+1351962514 c:\mingw\include\irrlicht\edrivertypes.h
+
+1351962512 c:\mingw\include\irrlicht\eguialignment.h
+
+1351962514 c:\mingw\include\irrlicht\eguielementtypes.h
+	"irrTypes.h"
+
+1351962512 c:\mingw\include\irrlicht\emeshwriterenums.h
+	"irrTypes.h"
+
+1351962512 c:\mingw\include\irrlicht\emessageboxflags.h
+
+1351962514 c:\mingw\include\irrlicht\escenenodeanimatortypes.h
+
+1351962512 c:\mingw\include\irrlicht\escenenodetypes.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\eterrainelements.h
+
+1351962512 c:\mingw\include\irrlicht\fast_atof.h
+	"irrMath.h"
+	"irrString.h"
+
+1351962514 c:\mingw\include\irrlicht\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1351962514 c:\mingw\include\irrlicht\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1351962514 BufferFlags.h"
+
+1351962512 c:\mingw\include\irrlicht\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1351962512 Mesh.h"
+
+1351962512 c:\mingw\include\irrlicht\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+	"irrpack.h"
+	"irrunpack.h"
+
+1351962512 c:\mingw\include\irrlicht\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1351962512 c:\mingw\include\irrlicht\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1351962512 ive.h"
+
+1351962512 c:\mingw\include\irrlicht\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1351962512 c:\mingw\include\irrlicht\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1351962512 c:\mingw\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1352124854 c:\mingw\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1351962512 c:\mingw\include\irrlicht\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1351962514 c:\mingw\include\irrlicht\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1351962512 c:\mingw\include\irrlicht\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1351962514 ideoData.h"
+
+1351962512 c:\mingw\include\irrlicht\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1351962514 c:\mingw\include\irrlicht\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1351962512 c:\mingw\include\irrlicht\sexposedvideodata.h
+
+1351962514 c:\mingw\include\irrlicht\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1351962514 c:\mingw\include\irrlicht\irrpack.h
+
+1351962514 c:\mingw\include\irrlicht\irrunpack.h
+
+1351962512 c:\mingw\include\irrlicht\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1351962512 MeshMD3.h"
+
+1351962514 c:\mingw\include\irrlicht\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1351962514 es.h"
+
+1351962514 c:\mingw\include\irrlicht\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1351962514 eCounted.h"
+
+1351962512 c:\mingw\include\irrlicht\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1351962514 eiver.h"
+
+1351962514 c:\mingw\include\irrlicht\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1351962514 c:\mingw\include\irrlicht\ilogger.h
+	"IReferenceCounted.h"
+
+1351962512 c:\mingw\include\irrlicht\keycodes.h
+
+1351962512 c:\mingw\include\irrlicht\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1351962514 c:\mingw\include\irrlicht\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1351962512 c:\mingw\include\irrlicht\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"dimension2d.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1351962512 c:\mingw\include\irrlicht\eattributes.h
+
+1351962512 c:\mingw\include\irrlicht\ibonescenenode.h
+	"ISceneNode.h"
+
+1351962512 e.h"
+
+1351962514 c:\mingw\include\irrlicht\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1351962512 dSceneNode.h"
+
+1351962514 c:\mingw\include\irrlicht\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1351962512 c:\mingw\include\irrlicht\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1351962512 c:\mingw\include\irrlicht\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1351962514 c:\mingw\include\irrlicht\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1351962512 c:\mingw\include\irrlicht\eshadertypes.h
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\iguibutton.h
+	"IGUIElement.h"
+
+1351962514 nt.h"
+
+1351962514 c:\mingw\include\irrlicht\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1351962512 c:\mingw\include\irrlicht\iguicheckbox.h
+	"IGUIElement.h"
+
+1351962512 c:\mingw\include\irrlicht\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1351962512 c:\mingw\include\irrlicht\iguicombobox.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguicontextmenu.h
+	"IGUIElement.h"
+
+1351962512 c:\mingw\include\irrlicht\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1351962514 c:\mingw\include\irrlicht\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1351962514 ntTypes.h"
+
+1351962512 c:\mingw\include\irrlicht\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1351962512 c:\mingw\include\irrlicht\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1351962514 c:\mingw\include\irrlicht\iguifontbitmap.h
+	"IGUIFont.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiimage.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1351962514 c:\mingw\include\irrlicht\iguimeshviewer.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiscrollbar.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguispinbox.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1351962514 c:\mingw\include\irrlicht\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1351962514 c:\mingw\include\irrlicht\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1351962514 c:\mingw\include\irrlicht\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1351962514 c:\mingw\include\irrlicht\iguitoolbar.h
+	"IGUIElement.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1351962514 oxFlags.h"
+
+1351962512 c:\mingw\include\irrlicht\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1351962512 c:\mingw\include\irrlicht\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1351962512 c:\mingw\include\irrlicht\slight.h
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1351962514 c:\mingw\include\irrlicht\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1351962514 c:\mingw\include\irrlicht\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1351962512 c:\mingw\include\irrlicht\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1351962512 c:\mingw\include\irrlicht\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1351962512 nipulator.h"
+
+1351962514 c:\mingw\include\irrlicht\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\imeshscenenode.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1351962512 erEnums.h"
+
+1351962514 c:\mingw\include\irrlicht\icolladameshwriter.h
+	"IMeshWriter.h"
+	"ISceneNode.h"
+	"IAnimatedMesh.h"
+	"SMaterial.h"
+
+1351962512 c:\mingw\include\irrlicht\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1351962512 Selector.h"
+
+1351962514 c:\mingw\include\irrlicht\iosoperator.h
+	"IReferenceCounted.h"
+	"irrString.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1351962512 MeshSceneNode.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1351962512 c:\mingw\include\irrlicht\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1351962512 Emitter.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1351962514 Affector.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1351962512 c:\mingw\include\irrlicht\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1351962514 c:\mingw\include\irrlicht\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1351962514 c:\mingw\include\irrlicht\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1351962514 c:\mingw\include\irrlicht\irandomizer.h
+	"IReferenceCounted.h"
+
+1351962514 c:\mingw\include\irrlicht\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1351962514 or.h"
+
+1351962512 c:\mingw\include\irrlicht\edevicetypes.h
+
+1351962512 c:\mingw\include\irrlicht\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1351962512 c:\mingw\include\irrlicht\itimer.h
+	"IReferenceCounted.h"
+
+1351962512 c:\mingw\include\irrlicht\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1351962514 c:\mingw\include\irrlicht\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1351962514 c:\mingw\include\irrlicht\isceneloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1351962512 c:\mingw\include\irrlicht\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1351962512 esh.h"
+
+1351962512 c:\mingw\include\irrlicht\sceneparameters.h
+
+1351962512 c:\mingw\include\irrlicht\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1351962512 Buffer.h"
+
+1351962514 c:\mingw\include\irrlicht\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1351962514 c:\mingw\include\irrlicht\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+	"irrArray.h"
+
+1351962514 c:\mingw\include\irrlicht\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1351962514 eAnimator.h"
+
+1351962512 c:\mingw\include\irrlicht\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1351962512 eAnimatorTypes.h"
+
+1351962514 c:\mingw\include\irrlicht\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1351962512 c:\mingw\include\irrlicht\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1351962514 c:\mingw\include\irrlicht\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1351962512 c:\mingw\include\irrlicht\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1351962512 c:\mingw\include\irrlicht\itextscenenode.h
+	"ISceneNode.h"
+
+1351962512 c:\mingw\include\irrlicht\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1351962514 c:\mingw\include\irrlicht\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1351962514 c:\mingw\include\irrlicht\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1351962512 c:\mingw\include\irrlicht\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1351962512 c:\mingw\include\irrlicht\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1351962514 c:\mingw\include\irrlicht\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1351962514 c:\mingw\include\irrlicht\skeymap.h
+	"Keycodes.h"
+
+1351962512 c:\mingw\include\irrlicht\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1351962512 c:\mingw\include\irrlicht\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1351962512 c:\mingw\include\irrlicht\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1351962514 c:\mingw\include\irrlicht\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1351962514 c:\mingw\include\irrlicht\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1351962512 c:\mingw\include\irrlicht\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1351962512 ver.h"
+
+1347576039 c:\mingw\include\bullet\btbulletdynamicscommon.h
+	"btBulletCollisionCommon.h"
+	"BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btSimpleDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHingeConstraint.h"
+	"BulletDynamics/ConstraintSolver/btConeTwistConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSliderConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h"
+	"BulletDynamics/ConstraintSolver/btUniversalConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHinge2Constraint.h"
+	"BulletDynamics/ConstraintSolver/btGearConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/Vehicle/btRaycastVehicle.h"
+
+1347576039 amics/Vehicle/btRaycastVehicle.h"
+
+1343755071 c:\mingw\include\bullet\btbulletcollisioncommon.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCylinderShape.h"
+	"BulletCollision/CollisionShapes/btConeShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+	"BulletCollision/CollisionShapes/btConvexHullShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMesh.h"
+	"BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionShapes/btTetrahedronShape.h"
+	"BulletCollision/CollisionShapes/btEmptyShape.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btUniformScalingShape.h"
+	"BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btAxisSweep3.h"
+	"BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btDbvtBroadphase.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btDefaultMotionState.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btIDebugDraw.h"
+	"LinearMath/btSerializer.h"
+
+1347338217 h/btSerializer.h"
+
+1347491945 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btcollisionworld.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btCollisionObject.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1347491945 h/btAlignedObjectArray.h"
+
+1347897827 c:\mingw\include\linearmath\btvector3.h
+	"btScalar.h"
+	"btMinMax.h"
+	"btAlignedAllocator.h"
+
+1235001123 Allocator.h"
+
+1347335390 c:\mingw\include\linearmath\btscalar.h
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<ppcintrinsics.h>
+	<emmintrin.h>
+	<stdio.h>
+	<assert.h>
+	<assert.h>
+	<spu_printf.h>
+	<assert.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<assert.h>
+	<arm_neon.h>
+
+1347335390 h>
+
+1323712599 c:\mingw\include\linearmath\btminmax.h
+	"btScalar.h"
+
+1235001123 c:\mingw\include\linearmath\btalignedallocator.h
+	"btScalar.h"
+
+1339030590 c:\mingw\include\linearmath\bttransform.h
+	"btMatrix3x3.h"
+
+1339030590 x3.h"
+
+1339030590 c:\mingw\include\linearmath\btmatrix3x3.h
+	"btVector3.h"
+	"btQuaternion.h"
+	<stdio.h>
+
+1346608470 c:\mingw\include\linearmath\btquaternion.h
+	"btVector3.h"
+	"btQuadWord.h"
+
+1339030590 c:\mingw\include\linearmath\btquadword.h
+	"btScalar.h"
+	"btMinMax.h"
+	<altivec.h>
+
+1348270644 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btcollisionobject.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1235001123 c:\mingw\include\linearmath\btmotionstate.h
+	"btTransform.h"
+
+1347211350 rm.h"
+
+1339030590 c:\mingw\include\linearmath\btalignedobjectarray.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<memory.h>
+	<string.h>
+	<new>
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btcollisiondispatcher.h
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionCreateFunc.h"
+
+1339030590 onCreateFunc.h"
+
+1339030590 c:\mingw\include\bulletcollision\broadphasecollision\btdispatcher.h
+	"LinearMath/btScalar.h"
+
+1301678092 h/btScalar.h"
+
+1347324971 c:\mingw\include\bulletcollision\narrowphasecollision\btpersistentmanifold.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btManifoldPoint.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1327358384 h/btAlignedAllocator.h"
+
+1347691937 c:\mingw\include\bulletcollision\narrowphasecollision\btmanifoldpoint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransformUtil.h"
+	"physics_effects/base_level/solver/pfx_constraint_row.h"
+
+1347691937 ffects/base_level/solver/pfx_constraint_row.h"
+
+1301678092 c:\mingw\include\linearmath\bttransformutil.h
+	"btTransform.h"
+
+1349471711 c:\mingw\include\bulletcollision\collisiondispatch\btmanifoldresult.h
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1348111972 lision/CollisionDispatch/btCollisionObject.h"
+
+1301678092 c:\mingw\include\bulletcollision\narrowphasecollision\btdiscretecollisiondetectorinterface.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+
+1301678092 h/btVector3.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisiondispatch\btcollisionobjectwrapper.h
+	"LinearMath/btScalar.h"
+
+1348270644 c:\mingw\include\bulletcollision\collisiondispatch\btcollisionobject.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1327358384 c:\mingw\include\bulletcollision\broadphasecollision\btbroadphaseproxy.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btcollisioncreatefunc.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1301678092 c:\mingw\include\bulletcollision\broadphasecollision\btoverlappingpaircache.h
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1301678092 c:\mingw\include\bulletcollision\broadphasecollision\btbroadphaseinterface.h
+	"btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1219803851 c:\mingw\include\bulletcollision\broadphasecollision\btoverlappingpaircallback.h
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btboxshape.h
+	"btPolyhedralConvexShape.h"
+	"btCollisionMargin.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMinMax.h"
+
+1339030590 h/btMinMax.h"
+
+1348816488 c:\mingw\include\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h
+	"LinearMath/btMatrix3x3.h"
+	"btConvexInternalShape.h"
+
+1348816488 nternalShape.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconvexinternalshape.h
+	"btConvexShape.h"
+	"LinearMath/btAabbUtil2.h"
+
+1339030590 h/btAabbUtil2.h"
+
+1330491053 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconvexshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1347814885 c:\mingw\include\bullet\bulletcollision\collisionshapes\btcollisionshape.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1339030590 lision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1316110640 c:\mingw\include\bullet\bulletcollision\collisionshapes\btcollisionmargin.h
+
+1339030590 c:\mingw\include\linearmath\btaabbutil2.h
+	"btTransform.h"
+	"btVector3.h"
+	"btMinMax.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisionshapes\btsphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1347814885 c:\mingw\include\bullet\bulletcollision\collisionshapes\btcapsuleshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1347814885 c:\mingw\include\bullet\bulletcollision\collisionshapes\btcylindershape.h
+	"btBoxShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1347814885 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconeshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btstaticplaneshape.h
+	"btConcaveShape.h"
+
+1339030590 Shape.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconcaveshape.h
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btTriangleCallback.h"
+
+1339030590 eCallback.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttrianglecallback.h
+	"LinearMath/btVector3.h"
+
+1348816488 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconvexhullshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1347213542 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttrianglemesh.h
+	"btTriangleIndexVertexArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1330497655 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttriangleindexvertexarray.h
+	"btStridingMeshInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btScalar.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h
+	"LinearMath/btVector3.h"
+	"btTriangleCallback.h"
+	"btConcaveShape.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btconvextrianglemeshshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisionshapes\btbvhtrianglemeshshape.h
+	"btTriangleMeshShape.h"
+	"btOptimizedBvh.h"
+	"LinearMath/btAlignedAllocator.h"
+	"btTriangleInfoMap.h"
+
+1301678092 eInfoMap.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttrianglemeshshape.h
+	"btConcaveShape.h"
+	"btStridingMeshInterface.h"
+
+1339030590 gMeshInterface.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisionshapes\btoptimizedbvh.h
+	"BulletCollision/BroadphaseCollision/btQuantizedBvh.h"
+
+1301678092 lision/BroadphaseCollision/btQuantizedBvh.h"
+
+1339030590 c:\mingw\include\bulletcollision\broadphasecollision\btquantizedbvh.h
+	<stdio.h>
+	<stdlib.h>
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1347338217 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttriangleinfomap.h
+	"LinearMath/btHashMap.h"
+	"LinearMath/btSerializer.h"
+
+1301678092 c:\mingw\include\linearmath\bthashmap.h
+	"btAlignedObjectArray.h"
+
+1301678092 ObjectArray.h"
+
+1348279569 c:\mingw\include\linearmath\btserializer.h
+	"btScalar.h"
+	"btStackAlloc.h"
+	"btHashMap.h"
+	<memory.h>
+	<string.h>
+
+1235001123 c:\mingw\include\linearmath\btstackalloc.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btscaledbvhtrianglemeshshape.h
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+
+1339030590 lision/CollisionShapes/btBvhTriangleMeshShape.h"
+
+1301678092 c:\mingw\include\bulletcollision\collisionshapes\btbvhtrianglemeshshape.h
+	"btTriangleMeshShape.h"
+	"btOptimizedBvh.h"
+	"LinearMath/btAlignedAllocator.h"
+	"btTriangleInfoMap.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisionshapes\bttrianglemeshshape.h
+	"btConcaveShape.h"
+	"btStridingMeshInterface.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisionshapes\btconcaveshape.h
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btTriangleCallback.h"
+
+1347814885 c:\mingw\include\bulletcollision\collisionshapes\btcollisionshape.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1301678092 c:\mingw\include\bulletcollision\collisionshapes\bttrianglecallback.h
+	"LinearMath/btVector3.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisionshapes\btstridingmeshinterface.h
+	"LinearMath/btVector3.h"
+	"btTriangleCallback.h"
+	"btConcaveShape.h"
+
+1301678092 c:\mingw\include\bulletcollision\collisionshapes\btoptimizedbvh.h
+	"BulletCollision/BroadphaseCollision/btQuantizedBvh.h"
+
+1347338217 c:\mingw\include\bulletcollision\collisionshapes\bttriangleinfomap.h
+	"LinearMath/btHashMap.h"
+	"LinearMath/btSerializer.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisionshapes\btcompoundshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\bttetrahedronshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btemptyshape.h
+	"btConcaveShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+
+1339030590 onMargin.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btmultisphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btAabbUtil2.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisionshapes\btuniformscalingshape.h
+	"btConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btspherespherecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1339030590 onDispatcher.h"
+
+1339030590 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1339030590 lision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1339030590 c:\mingw\include\bulletcollision\broadphasecollision\btcollisionalgorithm.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisiondispatch\btcollisioncreatefunc.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1343755071 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.h
+	"btCollisionConfiguration.h"
+
+1343755071 onConfiguration.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\collisiondispatch\btcollisionconfiguration.h
+
+1301678092 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btsimplebroadphase.h
+	"btOverlappingPairCache.h"
+
+1243044954 pingPairCache.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btoverlappingpaircache.h
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1301678092 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btbroadphaseinterface.h
+	"btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1327358384 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1219803851 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btoverlappingpaircallback.h
+
+1349382724 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btaxissweep3.h
+	"LinearMath/btVector3.h"
+	"btOverlappingPairCache.h"
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"btDbvtBroadphase.h"
+	<stdio.h>
+
+1265916350 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btdbvtbroadphase.h
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btQuickprof.h"
+
+1265916350 h/btQuickprof.h"
+
+1339030590 c:\mingw\include\bulletcollision\broadphasecollision\btdbvt.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btAabbUtil2.h"
+	<emmintrin.h>
+	<memory.h>
+	<string.h>
+
+1314674912 c:\mingw\include\linearmath\btquickprof.h
+	<stdio.h>
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<new>
+
+1243044954 c:\mingw\include\bullet\bulletcollision\broadphasecollision\btmultisapbroadphase.h
+	"btBroadphaseInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btOverlappingPairCache.h"
+
+1346608470 c:\mingw\include\bullet\linearmath\btquaternion.h
+	"btVector3.h"
+	"btQuadWord.h"
+
+1347897827 c:\mingw\include\bullet\linearmath\btvector3.h
+	"btScalar.h"
+	"btMinMax.h"
+	"btAlignedAllocator.h"
+
+1347335390 c:\mingw\include\bullet\linearmath\btscalar.h
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<ppcintrinsics.h>
+	<emmintrin.h>
+	<stdio.h>
+	<assert.h>
+	<assert.h>
+	<spu_printf.h>
+	<assert.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<assert.h>
+	<arm_neon.h>
+
+1323712599 c:\mingw\include\bullet\linearmath\btminmax.h
+	"btScalar.h"
+
+1235001123 c:\mingw\include\bullet\linearmath\btalignedallocator.h
+	"btScalar.h"
+
+1339030590 c:\mingw\include\bullet\linearmath\btquadword.h
+	"btScalar.h"
+	"btMinMax.h"
+	<altivec.h>
+
+1339030590 c:\mingw\include\bullet\linearmath\bttransform.h
+	"btMatrix3x3.h"
+
+1339030590 c:\mingw\include\bullet\linearmath\btmatrix3x3.h
+	"btVector3.h"
+	"btQuaternion.h"
+	<stdio.h>
+
+1339030590 c:\mingw\include\bullet\linearmath\btdefaultmotionstate.h
+	"btMotionState.h"
+
+1339030590 tate.h"
+
+1235001123 c:\mingw\include\bullet\linearmath\btmotionstate.h
+	"btTransform.h"
+
+1314674912 c:\mingw\include\bullet\linearmath\btquickprof.h
+	<stdio.h>
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<new>
+
+1347211350 c:\mingw\include\bullet\linearmath\btidebugdraw.h
+	"btVector3.h"
+	"btTransform.h"
+
+1348279569 c:\mingw\include\bullet\linearmath\btserializer.h
+	"btScalar.h"
+	"btStackAlloc.h"
+	"btHashMap.h"
+	<memory.h>
+	<string.h>
+
+1235001123 c:\mingw\include\bullet\linearmath\btstackalloc.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+
+1301678092 c:\mingw\include\bullet\linearmath\bthashmap.h
+	"btAlignedObjectArray.h"
+
+1339030590 c:\mingw\include\bullet\linearmath\btalignedobjectarray.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<memory.h>
+	<string.h>
+	<new>
+
+1349471711 c:\mingw\include\bullet\bulletdynamics\dynamics\btdiscretedynamicsworld.h
+	"btDynamicsWorld.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1348270644 c:\mingw\include\bullet\bulletdynamics\dynamics\btdynamicsworld.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+
+1348270644 amics/ConstraintSolver/btContactSolverInfo.h"
+
+1347491945 c:\mingw\include\bulletcollision\collisiondispatch\btcollisionworld.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btCollisionObject.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1339030590 c:\mingw\include\bulletcollision\collisiondispatch\btcollisiondispatcher.h
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionCreateFunc.h"
+
+1348279569 c:\mingw\include\bulletdynamics\constraintsolver\btcontactsolverinfo.h
+	"LinearMath/btScalar.h"
+
+1316112433 c:\mingw\include\bullet\bulletdynamics\dynamics\btsimpledynamicsworld.h
+	"btDynamicsWorld.h"
+
+1316112433 sWorld.h"
+
+1348111972 c:\mingw\include\bullet\bulletdynamics\dynamics\btrigidbody.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btpoint2pointconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1339030590 nstraint.h"
+
+1346442384 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btjacobianentry.h
+	"LinearMath/btMatrix3x3.h"
+
+1346442384 h/btMatrix3x3.h"
+
+1349415432 c:\mingw\include\bullet\bulletdynamics\constraintsolver\bttypedconstraint.h
+	"LinearMath/btScalar.h"
+	"btSolverConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1349415432 amics/Dynamics/btRigidBody.h"
+
+1347132074 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btsolverconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"btJacobianEntry.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btSolverBody.h"
+
+1347132074 ody.h"
+
+1347132074 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btsolverbody.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btTransformUtil.h"
+
+1347132074 h/btTransformUtil.h"
+
+1348111972 c:\mingw\include\bulletdynamics\dynamics\btrigidbody.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\bthingeconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1347132074 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btconetwistconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btgeneric6dofconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btsliderconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1347338217 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btgeneric6dofspringconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1339030590 6DofConstraint.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btuniversalconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1339030590 c:\mingw\include\bullet\bulletdynamics\constraintsolver\bthinge2constraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofSpringConstraint.h"
+
+1339030590 6DofSpringConstraint.h"
+
+1347576039 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btgearconstraint.h
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+
+1347576039 amics/ConstraintSolver/btTypedConstraint.h"
+
+1349415432 c:\mingw\include\bulletdynamics\constraintsolver\bttypedconstraint.h
+	"LinearMath/btScalar.h"
+	"btSolverConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1347132074 c:\mingw\include\bulletdynamics\constraintsolver\btsolverconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"btJacobianEntry.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btSolverBody.h"
+
+1346442384 c:\mingw\include\bulletdynamics\constraintsolver\btjacobianentry.h
+	"LinearMath/btMatrix3x3.h"
+
+1347132074 c:\mingw\include\bulletdynamics\constraintsolver\btsolverbody.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btTransformUtil.h"
+
+1347691937 c:\mingw\include\bullet\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+	"BulletDynamics/ConstraintSolver/btSolverBody.h"
+	"BulletDynamics/ConstraintSolver/btSolverConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+	"BulletDynamics/ConstraintSolver/btConstraintSolver.h"
+
+1347691937 amics/ConstraintSolver/btConstraintSolver.h"
+
+1301678092 c:\mingw\include\bulletdynamics\constraintsolver\btconstraintsolver.h
+	"LinearMath/btScalar.h"
+
+1301678092 c:\mingw\include\bullet\bulletdynamics\vehicle\btraycastvehicle.h
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"btVehicleRaycaster.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btWheelInfo.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+
+1301678092 amics/Dynamics/btActionInterface.h"
+
+1301678092 c:\mingw\include\bullet\bulletdynamics\vehicle\btvehicleraycaster.h
+	"LinearMath/btVector3.h"
+
+1301678092 c:\mingw\include\bullet\bulletdynamics\vehicle\btwheelinfo.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+
+1301678092 h/btTransform.h"
+
+1283906295 c:\mingw\include\bulletdynamics\dynamics\btactioninterface.h
+	"LinearMath/btScalar.h"
+	"btRigidBody.h"
+
+1283906295 dy.h"
+
+1366626085 source:/home/attila/Dropbox/auroch/main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+

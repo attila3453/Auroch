@@ -1,0 +1,33 @@
+# Blender MTL File: 'biserica v2.blend'
+# Material Count: 3
+newmtl 
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+
+newmtl Material.001_cave.jpeg.001_cave.jpeg_cave.jpeg
+Ns 80.392157
+Ka 0.000000 0.000000 0.000000
+Kd 0.209715 0.209715 0.209715
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cave.jpeg
+
+
+newmtl Material.001_cave.jpeg.001_cave.jpeg_cave.jpeg_map.png
+Ns 80.392157
+Ka 0.000000 0.000000 0.000000
+Kd 0.209715 0.209715 0.209715
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd map.png
+
+
