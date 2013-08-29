@@ -27,3 +27,11 @@
 	<iostream>
 	<string.h>
 
+1376991854 source:c:\users\attila\documents\github\auroch\main.cpp
+	<irrlicht/irrlicht.h>
+	<bullet/btBulletDynamicsCommon.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<string.h>
+

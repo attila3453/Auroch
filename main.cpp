@@ -22,6 +22,7 @@ ISceneManager* smgr;
 IVideoDriver* driver;
 IGUIEnvironment *guienv;
 ICameraSceneNode* camera;
+IGeometryCreator* geometrycreator;
 
 btDynamicsWorld *world;
 btDispatcher *dispatcher;
@@ -146,6 +147,11 @@ void CreateBox(btVector3 pos, vector3df scale, btScalar mass, const char * textu
 	bodies.push_back(RigidBody);
 }
 
+void CreatePlane(btVector3 pos, btVector3 normal, const char * texturepath){
+    ISceneNode *Node = smgr->addMeshSceneNode(
+        geometrycreator->createPlaneMesh());
+}
+
 void CreateSphere(btVector3 pos, btScalar radius, btScalar mass, const char * texturepath) {
     ISceneNode *Node = smgr->addSphereSceneNode(radius);
 
@@ -257,6 +263,7 @@ int main(int argc, char** argv) {
 
     driver = device->getVideoDriver();
     smgr = device->getSceneManager();
+    geometrycreator = smgr->getGeometryCreator();
 
     //smgr->addLightSceneNode(0, vector3df(0,50,0), SColorf(0.3f,0.3f,0.3f), 1.0f, 1 );
 
